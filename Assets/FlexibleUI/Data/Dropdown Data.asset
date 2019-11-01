@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5514dc5b6c550874c8ed6989f7c8e9ad, type: 3}
+  m_Name: Dropdown Data
+  m_EditorClassIdentifier: 
+  FontSize: 14
+  Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  FontColor: {r: 0, g: 0, b: 0, a: 1}
+  NormalColor: {r: 1, g: 1, b: 1, a: 1}
+  HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+  PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+  DisableColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+  DefaultSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  DefaultSpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  ArrowSprite: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+  TemplateSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  UIMaskSprite: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  ItemFontSize: 14
+  ItemFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  ItemFontColor: {r: 0, g: 0, b: 0, a: 1}
+  ItemNormalColor: {r: 1, g: 1, b: 1, a: 1}
+  ItemHighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+  ItemPressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+  ItemDisableColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+  ItemDefaultSprite: {fileID: 0}
+  ItemDefaultSpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  ItemCheckmarkSprite: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}

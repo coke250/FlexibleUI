@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 522c131e00516934db06570f3f32b394, type: 3}
+  m_Name: Text Data
+  m_EditorClassIdentifier: 
+  DefaultFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  DefaultFontStyle: 0
+  DefaultFontSize: 14
+  DefaultLineSpacing: 1
+  DefaultTextAnchor: 0
+  IsDefaultGeometry: 0
+  DefaultHorizontalWrapMode: 0
+  DefaultVerticalWrapMode: 0
+  IsDefaultBestFit: 0
+  DefaultFontColor: {r: 0, g: 0, b: 0, a: 1}
